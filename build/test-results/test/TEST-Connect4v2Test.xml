@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Connect4v2Test" tests="13" skipped="0" failures="0" errors="0" timestamp="2021-01-11T02:46:19" hostname="2012006NB50" time="0.038">
+  <properties/>
+  <testcase name="whenPlayFindChooseColumnIsFullThenException" classname="Connect4v2Test" time="0.017"/>
+  <testcase name="whenPlayFindChooseColumnEmptyThenPlaceBottom" classname="Connect4v2Test" time="0.006"/>
+  <testcase name="whenInitiatedThenBoardIsEmpty" classname="Connect4v2Test" time="0.0"/>
+  <testcase name="whenDiscsHave4SameColorInInverseDiagonalLineThenWinner" classname="Connect4v2Test" time="0.002"/>
+  <testcase name="whenBoardIsNotFullThenReturnNotFinish" classname="Connect4v2Test" time="0.0"/>
+  <testcase name="whenDiscsHave4SameColorInDiagonalLineThenWinner" classname="Connect4v2Test" time="0.001"/>
+  <testcase name="whenRPlayerDoneThenSwitchToGPlayer" classname="Connect4v2Test" time="0.001"/>
+  <testcase name="whenPlayFinishThenPrintBoardStatus" classname="Connect4v2Test" time="0.003"/>
+  <testcase name="whenBoardIsFullThenReturnFinish" classname="Connect4v2Test" time="0.004"/>
+  <testcase name="whenDiscsHave4SameColorInHorizontalLineThenWinner" classname="Connect4v2Test" time="0.001"/>
+  <testcase name="whenPlayFindChooseColumnNotEmptyThenPlaceOverIt" classname="Connect4v2Test" time="0.0"/>
+  <testcase name="whenPlayFinishThenGetTheEventFeedback" classname="Connect4v2Test" time="0.0"/>
+  <testcase name="whenIntroducedDiscExceedMaxCloumnsThenException" classname="Connect4v2Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
